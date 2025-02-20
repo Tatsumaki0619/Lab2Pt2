@@ -5,7 +5,7 @@
  *
  * @author Qianyi Li
  * @version 1.0
- * @since 2/13/2025
+ * @since 2/23/2025
  */
 import java.util.Scanner;
 public class Lab2Pt2ProChall2

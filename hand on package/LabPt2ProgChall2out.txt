@@ -1,0 +1,6 @@
+Enter your first name:Qianyi
+Enter your middle name:Valentina
+Enter your last name:Li
+
+My name is: Qianyi Valentina Li
+My initials are: QVL
